@@ -26,3 +26,8 @@ of code
 Here is how you make [a link](https://www.wikipedia.org/).
 
 ![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+
+A link to the book [a link](https://github.com/seankross/the-unix-workbench/blob/master/docs/06-Git-and-GitHub.md)
+and another link page [a link](https://guides.github.com/features/mastering-markdown/)
+
+
