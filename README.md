@@ -27,7 +27,25 @@ Here is how you make [a link](https://www.wikipedia.org/).
 
 ![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
 
-A link to the book [a link](https://github.com/seankross/the-unix-workbench/blob/master/docs/06-Git-and-GitHub.md)
-and another link page [a link](https://guides.github.com/features/mastering-markdown/)
+For helping you...
+
+We’ve got a much more complex readme file! Notice how the plain text that we wrote has been rendered according to a few rules:
+
+Pound signs (#, ##) make headings.
+A word surrounded by single asterisks (*word*) makes that word italicized.
+A word surrounded by double asterisks (**word**) makes that word bold.
+You can create lists with hyphens (-) or numbers (1., 2., 3.).
+Code can be placed in the middle of a line with single backticks (`code`).
+A code block can be created by putting code in between a set of triple backticks (```).
+You can insert a link with brackets and parentheses ([Link text here](http://jhu.edu)).
+You can use an image with an exclamation point, and a link to an image (![Alt text here](http://jhu.edu/jeff.jpg))
+
+
+
+A link to the book [this entire book](https://github.com/seankross/the-unix-workbench/blob/master/docs/06-Git-and-GitHub.md)
+and another link page [Mastering Markdown ](https://guides.github.com/features/mastering-markdown/) guide.
+
+Happy Coding!
+
 
 
