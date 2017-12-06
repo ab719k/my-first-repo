@@ -1,3 +1,34 @@
+#  Amit Bhatia
+
+### Geography
+
+I live in the city of Marlboro, in the state of New Jersey, in the United States
+of America.
+
+### Reading
+
+Three of my favorite books are:
+
+- *Mindstorms* by Seymour Papert
+- *Welcome to the Monkey House* by Kurt Vonnegut
+- *Persepolis* by Marjane Satrapi
+
+### Food
+
+Few of my favorite restaurant in my town and nearby
+
+1. Arzu in Freehold NJ
+2. N Thai in Spotswood NJ
+3. Thai Thai in Old Bridge NJ 
+
+### Contact
+
+The best way to get in touch with me is [twitter](https://twitter.com/indy21).
+
+_____
+_____
+
+
 # This is a large heading
 
 ## This is a smaller heading
