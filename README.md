@@ -56,7 +56,7 @@ of code
 
 Here is how you make [a link](https://www.wikipedia.org/).
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+![This is an image.](https://plus.google.com/u/0/photos/110168173512281847267/albums/profile/5833370889813195794)
 
 For helping you...
 
